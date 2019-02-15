@@ -1,0 +1,8 @@
+Hello Kotlin!	Hello Omar!
+Best Programming Language Ever!!!I love Dani A. 
+Hello from the console 
+Try to see if it goes down the last comment 
+Trying with numbers 1 2 3 4 5 6 
+This is validate 
+EOF 
+EOF 2 
